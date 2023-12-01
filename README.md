@@ -2,7 +2,7 @@
 
 # DENIED
 
-Denied is a specialized server load testing tool designed to simulate HTTP GET requests. This tool allows users to assess and measure the performance and responsiveness of a server by generating a controlled volume of simulated requests.
+Denied is a denial-of-service attack tool designed to simulate HTTP GET requests. This tool allows users to assess and measure the performance and responsiveness of a server by generating a controlled volume of simulated requests.
 
 # Usage
 
